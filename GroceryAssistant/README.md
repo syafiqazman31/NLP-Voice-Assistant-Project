@@ -50,8 +50,7 @@ The system listens to your voice commands to add or remove items from your digit
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/Grocery-Pantry-Assistant.git](https://github.com/your-username/Grocery-Pantry-Assistant.git)
-    cd Grocery-Pantry-Assistant
+git clone https://github.com/syafiqazman31/NLP-Voice-Assistant-Project.git
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
@@ -100,3 +99,4 @@ The system listens to your voice commands to add or remove items from your digit
 ## 🎥 Deliverables
 
 This repository contains the source code, requirements, and instructions required for the NLP Course Project .
+
