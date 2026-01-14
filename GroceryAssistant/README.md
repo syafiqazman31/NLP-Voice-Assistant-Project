@@ -99,4 +99,19 @@ git clone https://github.com/syafiqazman31/NLP-Voice-Assistant-Project.git
 
 This repository contains the source code, requirements, and instructions required for the NLP Course Project .
 
+graph TD
+    User([👤 User]) -->|Voice Command| UI[🖥️ Streamlit Interface]
+    UI -->|Audio Input| STT[🗣️ Speech-to-Text API]
+    STT -->|Transcribed Text| Logic[⚙️ Python Controller]
+    
+    subgraph "Local Intelligence"
+        Logic <-->|Prompt & Response| LLM[🧠 Llama 3 (Ollama)]
+        Logic <-->|Read & Update| DB[(📂 Pantry.txt & JSON)]
+    end
+    
+    Logic -->|Response Text| TTS[🔊 Text-to-Speech Engine]
+    TTS -->|Audio Output| User
+    Logic -->|Visual Update| UI
+
+
 
