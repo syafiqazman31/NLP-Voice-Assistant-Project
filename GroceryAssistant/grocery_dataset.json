@@ -1,0 +1,20 @@
+{
+  "apple": { "category": "Produce", "unit": "pcs" },
+  "banana": { "category": "Produce", "unit": "bunch" },
+  "milk": { "category": "Dairy", "unit": "carton" },
+  "eggs": { "category": "Dairy", "unit": "carton" },
+  "bread": { "category": "Bakery", "unit": "loaf" },
+  "rice": { "category": "Grains", "unit": "kg" },
+  "pasta": { "category": "Grains", "unit": "pack" },
+  "chicken": { "category": "Meat", "unit": "kg" },
+  "beef": { "category": "Meat", "unit": "kg" },
+  "tomato": { "category": "Produce", "unit": "kg" },
+  "onion": { "category": "Produce", "unit": "bag" },
+  "cheese": { "category": "Dairy", "unit": "block" },
+  "butter": { "category": "Dairy", "unit": "block" },
+  "cereal": { "category": "Breakfast", "unit": "box" },
+  "coffee": { "category": "Beverage", "unit": "jar" },
+  "tea": { "category": "Beverage", "unit": "box" },
+  "sugar": { "category": "Baking", "unit": "kg" },
+  "salt": { "category": "Baking", "unit": "pack" }
+}

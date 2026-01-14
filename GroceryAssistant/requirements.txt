@@ -1,0 +1,7 @@
+streamlit
+SpeechRecognition
+pyttsx3
+requests
+streamlit-mic-recorder
+pyaudio
+keyboard
