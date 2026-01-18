@@ -2,7 +2,11 @@
 
 **Course:** Natural Language Processing (NLP)  
 **Project Theme:** AI Voice Assistant  
-**Team:** [Your Team Name / Members]
+**Team:** [ MUHAMMAD SYAFIQ BIN NOR AZMAN (2213187)
+            MUHAMMAD AFIQ BIN MOHD ASRI (2212541)
+            MUHAMAD IZZUDIN BIN MUHAMAD (2219735)            
+            LUQMAN AZFAR BIN AZMI (2219857)
+]
 
 ---
 
@@ -112,6 +116,7 @@ graph TD
     Logic -->|Response Text| TTS[🔊 Text-to-Speech Engine]
     TTS -->|Audio Output| User
     Logic -->|Visual Update| UI
+
 
 
 
